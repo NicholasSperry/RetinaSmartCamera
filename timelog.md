@@ -65,3 +65,6 @@
 ### 24th October 2020
 * *1.5 hours* Trying to get Github to work with Google Colab
 * *2.5 hours* Created a simple Autoencoder using Alvaro's data
+
+### 25th October 2020
+* *2.5 hours* Reading up on VAEs and Pytorch Autoencoder tutorials
