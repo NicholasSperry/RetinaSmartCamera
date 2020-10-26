@@ -68,3 +68,6 @@
 
 ### 25th October 2020
 * *2.5 hours* Reading up on VAEs and Pytorch Autoencoder tutorials
+
+### 26th October 2020
+* *1.5 hours* Trying to create a compressing Autoencoder
