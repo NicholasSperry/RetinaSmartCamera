@@ -71,3 +71,10 @@
 
 ### 26th October 2020
 * *1.5 hours* Trying to create a compressing Autoencoder
+
+### Total for Week 3: *9.5 hours*
+
+## Week 4
+
+### 27th October 2020
+* *0.5 hours* Meeting with superviser
