@@ -78,3 +78,11 @@
 
 ### 27th October 2020
 * *0.5 hours* Meeting with superviser
+
+### 29th October 2020
+* *1.5 hours* Setting up Autoencoder found on Github
+* *1 hour* Testing out different Autoencoders
+* *0.5 hours* Looking into Torchsnooper
+
+### 30th October 2020
+* *2 hours* Trying to get Alvaro's data to load properly/ work with the Autoencoders
