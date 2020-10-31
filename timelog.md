@@ -86,3 +86,6 @@
 
 ### 30th October 2020
 * *2 hours* Trying to get Alvaro's data to load properly/ work with the Autoencoders
+
+### 31st October 2020
+* *2.5 hours* Got Alvaro's data to load properly and work with the Autoencoders
