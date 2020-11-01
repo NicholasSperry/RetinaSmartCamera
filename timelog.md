@@ -89,3 +89,6 @@
 
 ### 31st October 2020
 * *2.5 hours* Got Alvaro's data to load properly and work with the Autoencoders
+
+### 1st November 2020
+* *1.5 hours* Created function to run models and show how well the output images are using Tensorboard, as well as train/validation loss
