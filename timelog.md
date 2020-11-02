@@ -92,3 +92,6 @@
 
 ### 1st November 2020
 * *1.5 hours* Created function to run models and show how well the output images are using Tensorboard, as well as train/validation loss
+
+### 2nd November 2020
+* *1 hour* Autoencoder now works with Alvaro's cortical images. Cleaned up the DataLoaders notebook.
