@@ -29,6 +29,11 @@ Week-by-week plan for the whole project. Update this as you go along.
   3. Try running the Autoencoder using Alvaro's cortical images
   4. Maybe look into inverting cortical images back to normal
 * **Week 5**
+  1. Train the Autoencoder for more epochs
+  2. Look into freezing the Decoder part of the AE
+  3. Once frozen, redesign the Encoder part to work with Retinal image vectors.
+  4. Train the new model and look into using different loss functions, such as comparing the latent space of the cortical-cortical AE with the latent space of the redesigned AE.
+  5. If the redesigned AE performs poorly, look into adding more Convolutional Layers.
 * **Week 6**
 * **Week 7**
 * **Week 8**
