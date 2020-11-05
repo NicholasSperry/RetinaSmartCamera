@@ -92,3 +92,14 @@
 
 ### 1st November 2020
 * *1.5 hours* Created function to run models and show how well the output images are using Tensorboard, as well as train/validation loss
+
+### 2nd November 2020
+* *1 hour* Autoencoder now works with Alvaro's cortical images. Cleaned up the DataLoaders notebook.
+
+### Total for Week 4: *10.5 hours*
+
+## Week 5
+
+### 3rd November 2020
+* *1 hour* Meeting with supervisor
+* *0.5 hours* Training model for longer
