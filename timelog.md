@@ -106,3 +106,9 @@
 
 ### 5th November 2020
 * *4 hours* Working on implementing the Retina Encoder
+
+### 7th November 2020
+* *1.5 hours* Working on creating the Retina Encoder
+
+### 8th November 2020
+* *5.5 hours* Working on Retina Encoder
