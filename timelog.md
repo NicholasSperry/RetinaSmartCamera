@@ -103,3 +103,12 @@
 ### 3rd November 2020
 * *1 hour* Meeting with supervisor
 * *0.5 hours* Training model for longer
+
+### 5th November 2020
+* *4 hours* Working on implementing the Retina Encoder
+
+### 7th November 2020
+* *1.5 hours* Working on creating the Retina Encoder
+
+### 8th November 2020
+* *5.5 hours* Working on Retina Encoder
