@@ -112,3 +112,8 @@
 
 ### 8th November 2020
 * *5.5 hours* Working on Retina Encoder
+
+### 10th November 2020
+* *1.5 hours* Working on Training the Retina Encoder
+
+### Total for week 5: *14 hours*
