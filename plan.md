@@ -35,6 +35,11 @@ Week-by-week plan for the whole project. Update this as you go along.
   4. Train the new model and look into using different loss functions, such as comparing the latent space of the cortical-cortical AE with the latent space of the redesigned AE.
   5. If the redesigned AE performs poorly, look into adding more Convolutional Layers.
 * **Week 6**
+  1. Redesign the Cortical-Cortical AE to be purely convolutional and work on grayscale images (for now)
+  2. Create a fully connected Retinal vector-Retinal vector Autoencoder
+  3. Look into different loss functions for this model, such as using the backprojected cortical image and original cortical image
+  4. Freeze the Retinal-Retinal encoder and the Cortical-Cortical decoder
+  5. Combine these two models into one using a 1D bottleneck
 * **Week 7**
 * **Week 8**
 * **Week 9**
