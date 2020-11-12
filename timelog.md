@@ -117,3 +117,12 @@
 * *1.5 hours* Working on Training the Retina Encoder
 
 ### Total for week 5: *14 hours*
+
+## Week 6
+
+### 10th November 2020
+* *1.5 hours* Project meeting with supervisor and other supervisees
+
+### 12th November 2020
+* *2 hours* Redesigned Cortical-Cortical AE and currently training it
+* *1.5 hours* Started working on Retinal-Retinal AE, having issues getting the backprojected cortical image to the correct shape
