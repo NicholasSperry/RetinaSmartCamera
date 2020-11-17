@@ -126,3 +126,9 @@
 ### 12th November 2020
 * *2 hours* Redesigned Cortical-Cortical AE and currently training it
 * *1.5 hours* Started working on Retinal-Retinal AE, having issues getting the backprojected cortical image to the correct shape
+
+### 13th November 2020
+* *1 hour* Working more on the Retinal AE - getting it to the correct shape
+
+### 14th November 2020
+* *5.5 hours* Having massive issues with displaying reconstructed cortical images due to Tensor formatting. Managed to fix this. Worked on training the fully linear model, however it is not performing well.
