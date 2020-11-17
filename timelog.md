@@ -132,3 +132,8 @@
 
 ### 14th November 2020
 * *5.5 hours* Having massive issues with displaying reconstructed cortical images due to Tensor formatting. Managed to fix this. Worked on training the fully linear model, however it is not performing well.
+
+### 16th November 2020
+* *4 hours* Managed to fix issues with the Encoder model's loss being absolutley massive. Loss is now much lower but model still doesn't perform well
+
+### Total for Week 6: *15 hours*
