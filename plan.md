@@ -41,6 +41,8 @@ Week-by-week plan for the whole project. Update this as you go along.
   4. Freeze the Retinal-Retinal encoder and the Cortical-Cortical decoder
   5. Combine these two models into one using a 1D bottleneck
 * **Week 7**
+  1. Look into using a U-net as the Cortical Autoencoder
+  2. Since the 50k Retina is too big, create a Retinal Autoencoder for the 8k Retina instead
 * **Week 8**
 * **Week 9**
 * **Week 10**
