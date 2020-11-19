@@ -137,3 +137,12 @@
 * *4 hours* Managed to fix issues with the Encoder model's loss being absolutley massive. Loss is now much lower but model still doesn't perform well
 
 ### Total for Week 6: *15 hours*
+
+## Week 7
+
+### 17th November 2020
+* *1 hour* Meeting with project supervisor
+* *2 hours* Changed the Retinal Encoder to work with the 8k Retina
+
+### 18th November 2020
+* *0.5 hours* Testing out different Autoencoders to work with the Retinal vectors
