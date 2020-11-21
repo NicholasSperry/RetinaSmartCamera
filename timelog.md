@@ -146,3 +146,6 @@
 
 ### 18th November 2020
 * *0.5 hours* Testing out different Autoencoders to work with the Retinal vectors
+
+### 19th November 2020
+* *3 hours* Created a UNet to work with the Cortical Images
