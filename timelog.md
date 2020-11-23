@@ -149,3 +149,6 @@
 
 ### 19th November 2020
 * *3 hours* Created a UNet to work with the Cortical Images
+
+### 23rd November 2020
+* *2.5 hours* Created a Convolutional and Variational Autoencoder to work with the Retina vectors and see if the performance increaded
