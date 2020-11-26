@@ -44,6 +44,9 @@ Week-by-week plan for the whole project. Update this as you go along.
   1. Look into using a U-net as the Cortical Autoencoder
   2. Since the 50k Retina is too big, create a Retinal Autoencoder for the 8k Retina instead
 * **Week 8**
+  1. Get the Cortical UNet to work with RGB images, instead of just grayscale images
+  2. Try getting size of the bottleneck of Retinal Encoder to around 1000 values
+  3. Look into using colour spaces for the Cortical UNet.
 * **Week 9**
 * **Week 10**
 * **Week 11 [PROJECT WEEK]**
