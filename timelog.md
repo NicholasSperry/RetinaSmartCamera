@@ -149,3 +149,14 @@
 
 ### 19th November 2020
 * *3 hours* Created a UNet to work with the Cortical Images
+
+### 23rd November 2020
+* *2.5 hours* Created a Convolutional and Variational Autoencoder to work with the Retina vectors and see if the performance increaded
+
+### Total for Week 7: *9 hours*
+
+## Week 8
+
+### 18th November 2020
+* *1.5 hours* Meeting with project supervisor
+* *2 hours* Trying out different bottlenecks for the Retinal Encoder
