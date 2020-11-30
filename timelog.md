@@ -157,6 +157,10 @@
 
 ## Week 8
 
-### 18th November 2020
+### 24th November 2020
 * *1.5 hours* Meeting with project supervisor
 * *2 hours* Trying out different bottlenecks for the Retinal Encoder
+
+### 30th November 2020
+* *1 hour* Modified the Cortical UNet to work with RGB images
+* *2 hours* Trying out different Optimisers to try to improve the Retinal Encoder
