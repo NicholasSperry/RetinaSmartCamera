@@ -164,3 +164,15 @@
 ### 30th November 2020
 * *1 hour* Modified the Cortical UNet to work with RGB images
 * *2 hours* Trying out different Optimisers to try to improve the Retinal Encoder
+
+### Total for Week 8: *6.5 hours*
+
+## Week 9
+
+### Total for Week 9: *0 hours* Focused on working on Coursework, with permission from project supervisor
+
+## Week 10
+
+### 8th December 2020
+* *1.5 hours* Meeting with project supervisor
+* *1.5 hours* Fixed the Cortical UNet output. Input and output are now the same size
