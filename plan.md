@@ -48,9 +48,14 @@ Week-by-week plan for the whole project. Update this as you go along.
   2. Try getting size of the bottleneck of Retinal Encoder to around 1000 values
   3. Look into using colour spaces for the Cortical UNet.
 * **Week 9**
-* **Week 10**
-* **Week 11 [PROJECT WEEK]**
-* **Week 12 [PROJECT WEEK]** Status report submitted.
+  1. No particular plan, keep working on Week 8 plan
+* **Week 10 [PROJECT WEEK]**
+  1. Get the input and output shape of the Cortical UNet to match
+  2. Create a UNet that turns the backprojected Retinal image back to the original Fixation crop image
+  3. Combine the Cortical and Retinal UNet together to get a UNet that turns cortical images back to the original Fixation crop image
+  4. Look into using Mani's Cythonised Retina code instead of Piotr's.
+* **Week 11 [PROJECT WEEK]** Status report submitted.
+
 
 ## Winter break
 
