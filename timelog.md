@@ -176,3 +176,6 @@
 ### 8th December 2020
 * *1.5 hours* Meeting with project supervisor
 * *1.5 hours* Fixed the Cortical UNet output. Input and output are now the same size
+
+### 9th December 2020
+* *1.5 hours* Training retinal image to fixation crop UNet model, some issues with images
