@@ -179,3 +179,7 @@
 
 ### 9th December 2020
 * *1.5 hours* Training retinal image to fixation crop UNet model, some issues with images
+
+### 10th December 2020
+* *3 hours* Training retinal image to fixation crop UNet model, fixed issues with the retina/fixationcrop images from Alvaro's dataset
+* *1 hour* Created a SRNN to train on the retinal and fixation crop images, however doesn't seem much better.
