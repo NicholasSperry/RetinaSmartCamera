@@ -183,3 +183,7 @@
 ### 10th December 2020
 * *3 hours* Training retinal image to fixation crop UNet model, fixed issues with the retina/fixationcrop images from Alvaro's dataset
 * *1 hour* Created a SRNN to train on the retinal and fixation crop images, however doesn't seem much better.
+
+### 11th December 2020
+* *1.5 hours* Testing if the Retina-Fixation UNet model made a difference. Tried using cortical images as well
+* *2.5 hours* Looking into CycleGANs and how transformers work. Started working on the combined Cortical-Retina model.
