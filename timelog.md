@@ -187,3 +187,7 @@
 ### 11th December 2020
 * *1.5 hours* Testing if the Retina-Fixation UNet model made a difference. Tried using cortical images as well
 * *2.5 hours* Looking into CycleGANs and how transformers work. Started working on the combined Cortical-Retina model.
+
+### 12th December 2020
+* *1.5 hours* Worked on creating on a basic Cortical-Retina model, however it did not work
+* *1 hour* Looked into using a modified loss function for the Retina-Fixation UNet model
