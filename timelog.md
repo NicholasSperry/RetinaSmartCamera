@@ -191,3 +191,7 @@
 ### 12th December 2020
 * *1.5 hours* Worked on creating on a basic Cortical-Retina model, however it did not work
 * *1 hour* Looked into using a modified loss function for the Retina-Fixation UNet model
+
+### 13th December 2020
+* *0.5 hours* Trained the Fixation-to-Fixation UNet
+* *2 hours* Worked on creating the weighted MSE Loss to train the Retina-to-Fixation model, and trained the model
