@@ -195,3 +195,7 @@
 ### 13th December 2020
 * *0.5 hours* Trained the Fixation-to-Fixation UNet
 * *2 hours* Worked on creating the weighted MSE Loss to train the Retina-to-Fixation model, and trained the model
+
+### 14th December 2020
+* *0.5 hours* Working on presentation for project meeting
+* *2 hours* Created a model that combines the trained Cortical and Fixation models, however it doesn't work very well...
