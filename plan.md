@@ -55,6 +55,9 @@ Week-by-week plan for the whole project. Update this as you go along.
   3. Combine the Cortical and Retinal UNet together to get a UNet that turns cortical images back to the original Fixation crop image
   4. Look into using Mani's Cythonised Retina code instead of Piotr's.
 * **Week 11 [PROJECT WEEK]** Status report submitted.
+  1. Create a U-Net that turns the backprojected Retinal image back to the original full resolution Fixation crop image. This time use a modified MSE Loss function that is weighted by the inverse gaussian and the difference of Laplacians.
+  2. Work more on the Cortical-to-Retinal image U-Net, and modify the Transformer layer to use fully connected layers.
+  3. Instead of comparing the ouput of this model to the retinal image, compare the output of the Transformer to the Retinal latent space.
 
 
 ## Winter break
