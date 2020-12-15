@@ -199,3 +199,11 @@
 ### 14th December 2020
 * *0.5 hours* Working on presentation for project meeting
 * *2 hours* Created a model that combines the trained Cortical and Fixation models, however it doesn't work very well...
+
+### Total for Week 10: 20 hours
+
+## Week 11
+
+### 15th December 2020
+* *2 hours* Project meeting with supervisor
+* *3 hours* Working on the status report due on the 18th
