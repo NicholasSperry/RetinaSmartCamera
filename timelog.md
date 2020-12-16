@@ -207,3 +207,6 @@
 ### 15th December 2020
 * *2 hours* Project meeting with supervisor
 * *3 hours* Working on the status report due on the 18th
+
+### 16th December 2020
+* *2.5 hours* Trying to decrease the size of the Retinal U-Net latent space. Looking into using a ResNet instead for the cortical-to-retinal model.
