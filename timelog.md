@@ -210,3 +210,9 @@
 
 ### 16th December 2020
 * *2.5 hours* Trying to decrease the size of the Retinal U-Net latent space. Looking into using a ResNet instead for the cortical-to-retinal model.
+
+### 17th December 2020
+* *2 hours* Trying to get the cortical and retinal skip connections to work in the combined cortical-to-retinal model.
+
+### 18th December 2020
+* *2 hours* Working on creating an upsampling U-Net to go directly from a cortical image to a retinal image. Work in progress...
