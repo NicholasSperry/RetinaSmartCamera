@@ -216,3 +216,7 @@
 
 ### 18th December 2020
 * *2 hours* Working on creating an upsampling U-Net to go directly from a cortical image to a retinal image. Work in progress...
+
+### 21st December 2020
+* *1 hour* Worked more on the cortical-to-retinal U-Net. Tried modifying the image sizes/padding but the results dont change much.
+* *4 hours* Working on the modified retinal image to full resolution image U-Net. 
