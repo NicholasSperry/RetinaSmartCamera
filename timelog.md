@@ -195,3 +195,24 @@
 ### 13th December 2020
 * *0.5 hours* Trained the Fixation-to-Fixation UNet
 * *2 hours* Worked on creating the weighted MSE Loss to train the Retina-to-Fixation model, and trained the model
+
+### 14th December 2020
+* *0.5 hours* Working on presentation for project meeting
+* *2 hours* Created a model that combines the trained Cortical and Fixation models, however it doesn't work very well...
+
+### Total for Week 10: 20 hours
+
+## Week 11
+
+### 15th December 2020
+* *2 hours* Project meeting with supervisor
+* *3 hours* Working on the status report due on the 18th
+
+### 16th December 2020
+* *2.5 hours* Trying to decrease the size of the Retinal U-Net latent space. Looking into using a ResNet instead for the cortical-to-retinal model.
+
+### 17th December 2020
+* *2 hours* Trying to get the cortical and retinal skip connections to work in the combined cortical-to-retinal model.
+
+### 18th December 2020
+* *2 hours* Working on creating an upsampling U-Net to go directly from a cortical image to a retinal image. Work in progress...
