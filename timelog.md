@@ -6,6 +6,9 @@
 * Project Supervisor: Dr. Paul Siebert
 
 ## Week 1
+Project allocation week
+
+## Week 2
 
 ### 6th October 2020
 * *1 hour* Meeting with supervisor
@@ -30,7 +33,7 @@
 
 ### Total for Week 1: *10 hours*
 
-## Week 2
+## Week 3
 
 ### 13th October 2020
 * *1 hour* Meeting with supervisor
@@ -56,7 +59,7 @@
 
 ### Total for Week 2: *10 hours*
 
-## Week 3
+## Week 4
 
 ### 20th October 2020
 * *1 hour* Meeting with supervisor
@@ -74,7 +77,7 @@
 
 ### Total for Week 3: *9.5 hours*
 
-## Week 4
+## Week 5
 
 ### 27th October 2020
 * *0.5 hours* Meeting with superviser
@@ -98,7 +101,7 @@
 
 ### Total for Week 4: *10.5 hours*
 
-## Week 5
+## Week 6
 
 ### 3rd November 2020
 * *1 hour* Meeting with supervisor
@@ -118,7 +121,7 @@
 
 ### Total for week 5: *14 hours*
 
-## Week 6
+## Week 7
 
 ### 10th November 2020
 * *1.5 hours* Project meeting with supervisor and other supervisees
@@ -138,7 +141,7 @@
 
 ### Total for Week 6: *15 hours*
 
-## Week 7
+## Week 8
 
 ### 17th November 2020
 * *1 hour* Meeting with project supervisor
@@ -155,7 +158,7 @@
 
 ### Total for Week 7: *9 hours*
 
-## Week 8
+## Week 9
 
 ### 24th November 2020
 * *1.5 hours* Meeting with project supervisor
@@ -167,11 +170,11 @@
 
 ### Total for Week 8: *6.5 hours*
 
-## Week 9
+## Week 10
 
 ### Total for Week 9: *0 hours* Focused on working on Coursework, with permission from project supervisor
 
-## Week 10
+## Week 11
 
 ### 8th December 2020
 * *1.5 hours* Meeting with project supervisor
@@ -202,7 +205,7 @@
 
 ### Total for Week 10: 20 hours
 
-## Week 11
+## Week 12
 
 ### 15th December 2020
 * *2 hours* Project meeting with supervisor
