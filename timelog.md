@@ -233,3 +233,7 @@ Project allocation week
 
 ### 27th December 2020
 * *4.5 hours* Modified the cortical-to-retinal U-Net to work as a Generator and created a Discriminator to make a cortical-to-retinal GAN
+
+### 5th January 2021
+* *1.5 hours* Created some code to make it easier to convert videos into frames.
+* *1 hour* Worked on creating an initial dataset
