@@ -237,3 +237,7 @@ Project allocation week
 ### 5th January 2021
 * *1.5 hours* Created some code to make it easier to convert videos into frames.
 * *1 hour* Worked on creating an initial dataset
+
+### 6th January 2021
+* *6 hours* Worked on trying to get the base U-Net to generate retinal images from cortical images. Tested different modifications to the model, as well as the loss functions, to try to improve it. Overall the model performs much better than before, however the reconstructions are still blurry.
+
