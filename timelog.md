@@ -6,6 +6,9 @@
 * Project Supervisor: Dr. Paul Siebert
 
 ## Week 1
+Project allocation week
+
+## Week 2
 
 ### 6th October 2020
 * *1 hour* Meeting with supervisor
@@ -28,9 +31,9 @@
 ### 13th October 2020
 * *1 hour* Reading Sumitha's paper
 
-### Total for Week 1: *10 hours*
+### Total for Week 2: *10 hours*
 
-## Week 2
+## Week 3
 
 ### 13th October 2020
 * *1 hour* Meeting with supervisor
@@ -54,9 +57,9 @@
 ### 20th October 2020
 * *0.5 hours* Running more of Samuel's code
 
-### Total for Week 2: *10 hours*
+### Total for Week 3: *10 hours*
 
-## Week 3
+## Week 4
 
 ### 20th October 2020
 * *1 hour* Meeting with supervisor
@@ -72,9 +75,9 @@
 ### 26th October 2020
 * *1.5 hours* Trying to create a compressing Autoencoder
 
-### Total for Week 3: *9.5 hours*
+### Total for Week 4: *9.5 hours*
 
-## Week 4
+## Week 5
 
 ### 27th October 2020
 * *0.5 hours* Meeting with superviser
@@ -96,9 +99,9 @@
 ### 2nd November 2020
 * *1 hour* Autoencoder now works with Alvaro's cortical images. Cleaned up the DataLoaders notebook.
 
-### Total for Week 4: *10.5 hours*
+### Total for Week 5: *10.5 hours*
 
-## Week 5
+## Week 6
 
 ### 3rd November 2020
 * *1 hour* Meeting with supervisor
@@ -116,9 +119,9 @@
 ### 10th November 2020
 * *1.5 hours* Working on Training the Retina Encoder
 
-### Total for week 5: *14 hours*
+### Total for week 6: *14 hours*
 
-## Week 6
+## Week 7
 
 ### 10th November 2020
 * *1.5 hours* Project meeting with supervisor and other supervisees
@@ -136,9 +139,9 @@
 ### 16th November 2020
 * *4 hours* Managed to fix issues with the Encoder model's loss being absolutley massive. Loss is now much lower but model still doesn't perform well
 
-### Total for Week 6: *15 hours*
+### Total for Week 7: *15 hours*
 
-## Week 7
+## Week 8
 
 ### 17th November 2020
 * *1 hour* Meeting with project supervisor
@@ -153,9 +156,9 @@
 ### 23rd November 2020
 * *2.5 hours* Created a Convolutional and Variational Autoencoder to work with the Retina vectors and see if the performance increaded
 
-### Total for Week 7: *9 hours*
+### Total for Week 8: *9 hours*
 
-## Week 8
+## Week 9
 
 ### 24th November 2020
 * *1.5 hours* Meeting with project supervisor
@@ -165,13 +168,13 @@
 * *1 hour* Modified the Cortical UNet to work with RGB images
 * *2 hours* Trying out different Optimisers to try to improve the Retinal Encoder
 
-### Total for Week 8: *6.5 hours*
-
-## Week 9
-
-### Total for Week 9: *0 hours* Focused on working on Coursework, with permission from project supervisor
+### Total for Week 9: *6.5 hours*
 
 ## Week 10
+
+### Total for Week 10: *0 hours* Focused on working on Coursework, with permission from project supervisor
+
+## Week 11
 
 ### 8th December 2020
 * *1.5 hours* Meeting with project supervisor
@@ -200,9 +203,9 @@
 * *0.5 hours* Working on presentation for project meeting
 * *2 hours* Created a model that combines the trained Cortical and Fixation models, however it doesn't work very well...
 
-### Total for Week 10: 20 hours
+### Total for Week 11: *20 hours*
 
-## Week 11
+## Week 12
 
 ### 15th December 2020
 * *2 hours* Project meeting with supervisor
@@ -219,4 +222,18 @@
 
 ### 21st December 2020
 * *1 hour* Worked more on the cortical-to-retinal U-Net. Tried modifying the image sizes/padding but the results dont change much.
-* *4 hours* Working on the modified retinal image to full resolution image U-Net. 
+* *4 hours* Working on the modified retinal image to full resolution image U-Net.
+
+### 22nd December 2020
+* *1 hour* Working on the presentation for project meeting
+
+### Total for Week 12: *17.5 hours*
+
+## Winter Break
+
+### 27th December 2020
+* *4.5 hours* Modified the cortical-to-retinal U-Net to work as a Generator and created a Discriminator to make a cortical-to-retinal GAN
+
+### 5th January 2021
+* *1.5 hours* Created some code to make it easier to convert videos into frames.
+* *1 hour* Worked on creating an initial dataset
