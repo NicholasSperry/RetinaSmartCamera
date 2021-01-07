@@ -241,3 +241,6 @@ Project allocation week
 ### 6th January 2021
 * *6 hours* Worked on trying to get the base U-Net to generate retinal images from cortical images. Tested different modifications to the model, as well as the loss functions, to try to improve it. Overall the model performs much better than before, however the reconstructions are still blurry.
 
+### 7th January 2021
+* *2 hours* Created a Laplacian Pyramid Loss function to combine with the MSE Loss to try to remove some of the blurryness from the model. Still testing out the weights that should be assigned to each Loss function.
+
