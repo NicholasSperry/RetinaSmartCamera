@@ -244,3 +244,8 @@ Project allocation week
 ### 7th January 2021
 * *2 hours* Created a Laplacian Pyramid Loss function to combine with the MSE Loss to try to remove some of the blurryness from the model. Still testing out the weights that should be assigned to each Loss function.
 
+### 8th January 2021
+* *1.5 hours* Fixed some issues with the video to frames code.
+
+### 9th January 2021
+* *2 hours* Worked on using Mani's Cythonised Retina code to generate the Retinal images for the dataset
