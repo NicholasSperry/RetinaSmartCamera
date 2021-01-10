@@ -249,3 +249,7 @@ Project allocation week
 
 ### 9th January 2021
 * *2 hours* Worked on using Mani's Cythonised Retina code to generate the Retinal images for the dataset
+
+### 10th January 2021
+* *1.5 hours* Tried getting Mani's Retina code to work with RGB images, but it doesn't seem to be implemented yet
+* *1 hour* Made sure the Laplacian Pyramid Loss actually worked, as well as tested out the retina-to-fixation model
