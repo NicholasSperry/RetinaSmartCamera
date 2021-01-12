@@ -68,6 +68,9 @@ Week-by-week plan for the whole project. Update this as you go along.
 ## Spring Semester
 
 * **Week 13**
+Start building the Smart Camera pipeline:
+  1. Encode the retinal vector using lossless compression -> tranmission -> remote decoding
+  2. Use Meng Dong's Predictive Coding Network to classify the cortical images obtained from the decoded retinal vectors
 * **Week 14**
 * **Week 15**
 * **Week 16**
