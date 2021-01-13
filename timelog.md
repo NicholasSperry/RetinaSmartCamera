@@ -253,3 +253,16 @@ Project allocation week
 ### 10th January 2021
 * *1.5 hours* Tried getting Mani's Retina code to work with RGB images, but it doesn't seem to be implemented yet
 * *1 hour* Made sure the Laplacian Pyramid Loss actually worked, as well as tested out the retina-to-fixation model
+
+### Total for the Winter Break: *21 hours*
+
+## Week 13
+
+### 11th January 2021
+  *2.5 hours* Getting Meng Dong's Predictive Coding Network to work. Also implemented my own encoder-decoder PCNet for possible image compression.
+
+### 12th January 2021
+  *0.5 hours* Preparing for project meeting
+  *1 hour* Project meeting with supervisor
+  *2 hours* Worked on fixing a bug in the Dataloaders notebook. The image labels were not correct.
+  *0.5 hours* Cleaned up some code
