@@ -266,3 +266,7 @@ Project allocation week
   *1 hour* Project meeting with supervisor
   *2 hours* Worked on fixing a bug in the Dataloaders notebook. The image labels were not correct.
   *0.5 hours* Cleaned up some code
+
+### 13th January 2021
+  *3 hours* Looking into Huffman Coding and its applications with image compression. Created the HuffmanCoding notebook to test out its applications
+  *1 hour* Getting Meng Dong's PCN model to run and training it on Alvaro's cortical images to see how well it performs
