@@ -270,3 +270,11 @@ Project allocation week
 ### 13th January 2021
 * *3 hours* Looking into Huffman Coding and its applications with image compression. Created the HuffmanCoding notebook to test out its applications
 * *1 hour* Getting Meng Dong's PCN model to run and training it on Alvaro's cortical images to see how well it performs
+
+### Total for Week 13: *10.5 hours*
+
+## Week 14
+
+### 19th January 2021
+* *0.5 hours* Project update for Gerardo
+* *1 hour* Slightly modified and trained Meng Dong's PCN model for more epochs. The model now works with resized 64x64 cortical images. Started testing how much compression is achieved by Huffman encoding a retinal image vector.
