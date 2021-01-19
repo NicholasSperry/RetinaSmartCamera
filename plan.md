@@ -72,6 +72,8 @@ Start building the Smart Camera pipeline:
   1. Encode the retinal vector using lossless compression -> tranmission -> remote decoding
   2. Use Meng Dong's Predictive Coding Network to classify the cortical images obtained from the decoded retinal vectors
 * **Week 14**
+  1. Keep working on the Smart Camera pipeline
+  2. If available, convert personal dataset into retinal and cortical images using Mani's Retina code
 * **Week 15**
 * **Week 16**
 * **Week 17**

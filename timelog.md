@@ -259,10 +259,22 @@ Project allocation week
 ## Week 13
 
 ### 11th January 2021
-  *2.5 hours* Getting Meng Dong's Predictive Coding Network to work. Also implemented my own encoder-decoder PCNet for possible image compression.
+* *2.5 hours* Getting Meng Dong's Predictive Coding Network to work. Also implemented my own encoder-decoder PCNet for possible image compression.
 
 ### 12th January 2021
-  *0.5 hours* Preparing for project meeting
-  *1 hour* Project meeting with supervisor
-  *2 hours* Worked on fixing a bug in the Dataloaders notebook. The image labels were not correct.
-  *0.5 hours* Cleaned up some code
+* *0.5 hours* Preparing for project meeting
+* *1 hour* Project meeting with supervisor
+* *2 hours* Worked on fixing a bug in the Dataloaders notebook. The image labels were not correct.
+* *0.5 hours* Cleaned up some code
+
+### 13th January 2021
+* *3 hours* Looking into Huffman Coding and its applications with image compression. Created the HuffmanCoding notebook to test out its applications
+* *1 hour* Getting Meng Dong's PCN model to run and training it on Alvaro's cortical images to see how well it performs
+
+### Total for Week 13: *10.5 hours*
+
+## Week 14
+
+### 19th January 2021
+* *0.5 hours* Project update for Gerardo
+* *1 hour* Slightly modified and trained Meng Dong's PCN model for more epochs. The model now works with resized 64x64 cortical images. Started testing how much compression is achieved by Huffman encoding a retinal image vector.
