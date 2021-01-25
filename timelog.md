@@ -285,3 +285,7 @@ Project allocation week
 ### 24th January 2021
 * *1 hour* Looking into possibly using cortical images for image segmentation
 * *2.5 hours* Started looking into writing Introduction/ Background for dissertation. 
+
+### 25th January 2021
+* *1.5 hours* Introduction for dissertation
+* *0.5 hours* Looking into ZeroMQ
