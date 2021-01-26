@@ -289,3 +289,10 @@ Project allocation week
 ### 25th January 2021
 * *1.5 hours* Introduction for dissertation
 * *0.5 hours* Looking into ZeroMQ
+
+### Total for Week 14: *7.5 hours*
+
+## Week 15
+
+### 26th January 2021
+* *1.5 hours* Experimenting with ZeroMQ. Tried connecting two Google Colab notebooks together but it doesn't seem to work.
