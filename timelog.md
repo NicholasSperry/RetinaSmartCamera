@@ -296,3 +296,6 @@ Project allocation week
 
 ### 26th January 2021
 * *1.5 hours* Experimenting with ZeroMQ. Tried connecting two Google Colab notebooks together but it doesn't seem to work.
+
+### 27th January 2021
+* *3 hours* Trying to find a way to connect two Colab Notebooks, but it's not possible. Tried figuring out a way to connect Colab to a local runtime and still be able to access my Google Drive files, but that doesn't seem possible either. Will probably have to run the pipeline locally on my laptop with no GPU.
