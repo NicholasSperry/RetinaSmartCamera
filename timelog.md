@@ -278,3 +278,21 @@ Project allocation week
 ### 19th January 2021
 * *0.5 hours* Project update for Gerardo
 * *1 hour* Slightly modified and trained Meng Dong's PCN model for more epochs. The model now works with resized 64x64 cortical images. Started testing how much compression is achieved by Huffman encoding a retinal image vector.
+
+### 22nd January 2021
+* *0.5 hours* Meeting with Mani and Han about the Cythonised Retina and Cortical generator
+
+### 24th January 2021
+* *1 hour* Looking into possibly using cortical images for image segmentation
+* *2.5 hours* Started looking into writing Introduction/ Background for dissertation. 
+
+### 25th January 2021
+* *1.5 hours* Introduction for dissertation
+* *0.5 hours* Looking into ZeroMQ
+
+### Total for Week 14: *7.5 hours*
+
+## Week 15
+
+### 26th January 2021
+* *1.5 hours* Experimenting with ZeroMQ. Tried connecting two Google Colab notebooks together but it doesn't seem to work.
