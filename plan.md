@@ -75,6 +75,8 @@ Start building the Smart Camera pipeline:
   1. Keep working on the Smart Camera pipeline
   2. If available, convert personal dataset into retinal and cortical images using Mani's Retina code
 * **Week 15**
+  1. Use ZeroMQ to test the Pipeline. Do this over a network to test the throughput of information.
+  2. If available, convert personal dataset into retinal and cortical images using Mani's Retina code
 * **Week 16**
 * **Week 17**
 * **Week 19**
