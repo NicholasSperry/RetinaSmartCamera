@@ -302,3 +302,6 @@ Project allocation week
 
 ### 29th January 2021
 * *3 hours* Created a simple server/ client to compare the throughput of information between a full retinal vector and a Huffman encoded vector.
+
+### 31st January 2021
+* *2.5 hours* Created my dataset. Converted the videos I took into individual frames and into the fixationcrop, retinal, and cortical images. Might need to redo some objects, as it seems they might be out of frame sometimes.
