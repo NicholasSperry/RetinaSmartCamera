@@ -305,3 +305,6 @@ Project allocation week
 
 ### 31st January 2021
 * *2.5 hours* Created my dataset. Converted the videos I took into individual frames and into the fixationcrop, retinal, and cortical images. Might need to redo some objects, as it seems they might be out of frame sometimes.
+
+### 1st February 2021
+* *1 hour* Found a way to connect the Server and Client Colab notebooks together, however I need to be connected to a local runtime to do so. This means I will have access to the Colab GPU, but not the Google Drive files.
