@@ -299,3 +299,9 @@ Project allocation week
 
 ### 27th January 2021
 * *3 hours* Trying to find a way to connect two Colab Notebooks, but it's not possible. Tried figuring out a way to connect Colab to a local runtime and still be able to access my Google Drive files, but that doesn't seem possible either. Will probably have to run the pipeline locally on my laptop with no GPU.
+
+### 29th January 2021
+* *3 hours* Created a simple server/ client to compare the throughput of information between a full retinal vector and a Huffman encoded vector.
+
+### 31st January 2021
+* *2.5 hours* Created my dataset. Converted the videos I took into individual frames and into the fixationcrop, retinal, and cortical images. Might need to redo some objects, as it seems they might be out of frame sometimes.
