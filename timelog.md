@@ -308,3 +308,11 @@ Project allocation week
 
 ### 1st February 2021
 * *1 hour* Found a way to connect the Server and Client Colab notebooks together, however I need to be connected to a local runtime to do so. This means I will have access to the Colab GPU, but not the Google Drive files.
+
+### Total for Week 15: *11 hours*
+
+## Week 16
+
+### 2nd February 2021
+* *0.5 hours* Found easier way to locally connect two Colab notebooks
+* *1 hour* Started experimenting with sending full images instead of retinal vectors to compare efficiency
