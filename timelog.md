@@ -316,3 +316,6 @@ Project allocation week
 ### 2nd February 2021
 * *0.5 hours* Found easier way to locally connect two Colab notebooks
 * *1 hour* Started experimenting with sending full images instead of retinal vectors to compare efficiency
+
+### 4th February 2021
+* *2 hours* Server notebook now displays a live feed of the images being sent, whether it be a retinal, cortical or normal image
