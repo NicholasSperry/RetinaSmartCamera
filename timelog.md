@@ -319,3 +319,6 @@ Project allocation week
 
 ### 4th February 2021
 * *2 hours* Server notebook now displays a live feed of the images being sent, whether it be a retinal, cortical or normal image
+
+### 6th February 2021
+* *1.5 hours* Looking into ways of compressing entire frames for the standard video transmission pipeline
