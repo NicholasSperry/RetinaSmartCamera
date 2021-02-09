@@ -322,3 +322,7 @@ Project allocation week
 
 ### 6th February 2021
 * *1.5 hours* Looking into ways of compressing entire frames for the standard video transmission pipeline
+
+### 7th Februaru 2021
+* *2 hours* Looked more into how I should compress the entire frames
+* *1.5 hours* Improved the code on the Server side. Server side now also displays the time taken to decode the encoded data
