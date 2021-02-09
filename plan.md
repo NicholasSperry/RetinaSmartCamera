@@ -80,6 +80,7 @@ Start building the Smart Camera pipeline:
 * **Week 16**
   1. Keep working on the Pipeline
 * **Week 17**
+  1. Work on comparing the Retina Pipelie to a standard video transmission pipeline
 * **Week 19**
 * **Week 20**
 * **Week 21**
