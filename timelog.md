@@ -333,3 +333,9 @@ Project allocation week
 
 ### 9th February 2021
 * *2 hours* Frames are now Huffman encoded before serialisaton for the standard video transmission.
+
+### 10th February 2021
+* *4 hours* Trying to get Mani's Cythonised Retina to work in the Retina Pipeline
+
+### 11 February 2021
+* *1.5 hours* Having data type issues between Mani's code and the Huffman coder. The Huffman coder only works with uint8, and Mani's Retina only works with uint64
