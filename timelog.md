@@ -339,3 +339,10 @@ Project allocation week
 
 ### 11 February 2021
 * *1.5 hours* Having data type issues between Mani's code and the Huffman coder. The Huffman coder only works with uint8, and Mani's Retina only works with uint64
+* *0.5 hours* Meeting with new Supervisor, Dr. Jose Cano Reyes
+
+### 12th February 2021
+* *1 hour* Client and Server now work with Mani's cythonised Retina, but can't be Huffman encoded
+
+### 14th February 2021
+* *3 hours* Working on dissertation: Abstract and started background ... this is going to be fun
