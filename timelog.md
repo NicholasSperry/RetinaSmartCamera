@@ -346,3 +346,10 @@ Project allocation week
 
 ### 14th February 2021
 * *3 hours* Working on dissertation: Abstract and started background ... this is going to be fun
+
+### Total for Week 17: *12 hours*
+
+## Week 18
+
+### 21st February 2021
+* *3 hours* Worked more on the background section of the dissertation
