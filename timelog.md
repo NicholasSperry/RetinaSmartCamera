@@ -353,3 +353,6 @@ Project allocation week
 
 ### 21st February 2021
 * *3 hours* Worked more on the background section of the dissertation
+
+### 22nd February 2021
+* *1.5 hours* Started comparing the retina pipeline vs standard transmission. It seems that the Huffman encoded can actually increase the size of a vector in some cases.
