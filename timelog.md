@@ -356,3 +356,13 @@ Project allocation week
 
 ### 22nd February 2021
 * *1.5 hours* Started comparing the retina pipeline vs standard transmission. It seems that the Huffman encoded can actually increase the size of a vector in some cases.
+
+### 23rd February 2021
+* *1 hour* Started working on getting my dataset to work with the PCN. Test accuracy is extremely low however...
+
+### 24th February 2021
+* *1 hour* Collecting transmission times and preparing presentation for meeting
+* *0.5 hours* Meeting with Supervisors
+
+### 28th February 2021
+* *3 hours* Worked on getting my dataset to work with the PCN. Achieving test accuracy of about 70%.
