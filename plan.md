@@ -81,9 +81,10 @@ Start building the Smart Camera pipeline:
   1. Keep working on the Pipeline
 * **Week 17**
   1. Work on comparing the Retina Pipelie to a standard video transmission pipeline
-* **Week 19**
+* **Week 18**
   1. Compare the transmission times between the Retina Pipeline and the standard video transmission
   2. Show that the PCN is more efficient when using cortical images vs standard images.
+* **Week 19**
 * **Week 20**
 * **Week 21**
 * **Week 22**
