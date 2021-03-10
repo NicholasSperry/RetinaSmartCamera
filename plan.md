@@ -85,6 +85,9 @@ Start building the Smart Camera pipeline:
   1. Compare the transmission times between the Retina Pipeline and the standard video transmission
   2. Show that the PCN is more efficient when using cortical images vs standard images.
 * **Week 19**
+  1. Start focusing on the Dissertation
+  2. Find ground truth for PCN
+  3. Look into what else could be done for the project
 * **Week 20**
 * **Week 21**
 * **Week 22**
