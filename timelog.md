@@ -366,3 +366,27 @@ Project allocation week
 
 ### 28th February 2021
 * *3 hours* Worked on getting my dataset to work with the PCN. Achieving test accuracy of about 70%.
+
+### 2nd March 2021
+* *2 hours* PCN Test accuracy now gets to around 85%. Train accuracy is 100%
+
+### Total for Week 18: *12 hours*
+
+## Week 19
+### 3rd March 2021
+* *0.5 hour* Meeting with Supervisor
+* *1 hour* Trying out different parameters for the PCN
+
+### 4th March 2021
+* *3 hours* Working on dissertation
+
+### 5th March 2021
+* *3 hours* Working on dissertation
+
+### 6th March 2021
+* *2 hours* Working on dissertation
+
+### 7th March 2021
+* *2 hours* Working on dissertation
+
+### Total for Week 19: *11.5* hours
