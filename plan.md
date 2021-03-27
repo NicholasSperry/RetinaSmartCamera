@@ -89,8 +89,13 @@ Start building the Smart Camera pipeline:
   2. Find ground truth for PCN
   3. Look into what else could be done for the project
 * **Week 20**
+  1. Work on the dissertation
 * **Week 21**
+  1. Finish the first draft of the dissertation
 * **Week 22**
+  1. No plan. Focusing on finishing coursework and then focus on the project.
 * **Week 23 [TERM ENDS]**
-* **Week 24** Dissertation submission deadline and presentations.
+  1. Start second draft of the dissertation, using feedback from supervisor
+* **Week 24** 
+* **Week 25** Dissertation submission deadline and presentations.
 
