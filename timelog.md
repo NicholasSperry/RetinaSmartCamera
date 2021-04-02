@@ -3,7 +3,7 @@
 * A Software Retina-Based Smart Camera
 * Author: Nicholas Sperry
 * Student ID: 2306707s
-* Project Supervisor: Dr. Paul Siebert
+* Project Supervisor: Dr. Jose Cano Reyes
 
 ## Week 1
 Project allocation week
@@ -390,3 +390,49 @@ Project allocation week
 * *2 hours* Working on dissertation
 
 ### Total for Week 19: *11.5* hours
+
+## Week 20
+### 10th March 2021
+* *0.5 hours* Meeting with Supervisor
+* *1.5 hours* Working on dissertation
+
+### 11th March 2021
+* *3 hours* Working on dissertation
+
+### 12th March 2021
+* *6 hours* Working on dissertation
+
+### 13th March 2021
+* *6 hours* Finished first dissertation draft
+
+### Total for Week 20: *17 hours*
+
+## Week 21
+
+### 17th March 2021
+* *0.5 hours* Meeting with Supervisor
+
+### Total for Week 21: *0.5 hours*. Focusing on finishing coursework, with permission from Supervisor
+
+## Week 22
+
+### 24th March 2021
+* *0.5 hours* Meeting with Supervisor
+
+### 28th March 2021
+* *2 hours* Working on dissertation based on initial feedback from Supervisor
+
+### 29th March 2021
+* *5 hours* Working on second draft of dissertation
+
+### 30th March 2021
+* *3.5 hours* Working on second draft of dissertation
+
+### Total for Week 22: *11 hours*
+
+## Week 23
+
+### 31st March 2021
+* *0.5 hours* Meeting with Supervisor
+* *2 hours* Finishing up second draft of dissertation
+
