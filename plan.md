@@ -3,7 +3,7 @@
 * A Software Retina-Based Smart Camera
 * Author: Nicholas Sperry
 * ID: 2306707s
-* Supervisor: Dr. Paul Siebert
+* Supervisor: Dr. Jose Cano Reyes
 
 Week-by-week plan for the whole project. Update this as you go along.
 
@@ -81,12 +81,24 @@ Start building the Smart Camera pipeline:
   1. Keep working on the Pipeline
 * **Week 17**
   1. Work on comparing the Retina Pipelie to a standard video transmission pipeline
-* **Week 19**
+* **Week 18**
   1. Compare the transmission times between the Retina Pipeline and the standard video transmission
   2. Show that the PCN is more efficient when using cortical images vs standard images.
+* **Week 19**
+  1. Start focusing on the Dissertation
+  2. Find ground truth for PCN
+  3. Look into what else could be done for the project
 * **Week 20**
+  1. Work on the dissertation and get a first draft ready
 * **Week 21**
+  1. No plan. Focusing on finishing coursework and then focus on the project.
 * **Week 22**
+  1. Again mostly focus on coursework, look into improving the first draft based on inital feedback from Supervisor
 * **Week 23 [TERM ENDS]**
-* **Week 24** Dissertation submission deadline and presentations.
+  1. Start second draft of the dissertation, using feedback from supervisor
+* **Week 24** 
+  1. Finish and send second draft to Supervisor
+  2. Start working on video presentation
+  3. Work on fixing up code (Readme, comments, etc)
+* **Week 25** Dissertation submission deadline and presentations.
 

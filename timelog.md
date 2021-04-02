@@ -3,7 +3,7 @@
 * A Software Retina-Based Smart Camera
 * Author: Nicholas Sperry
 * Student ID: 2306707s
-* Project Supervisor: Dr. Paul Siebert
+* Project Supervisor: Dr. Jose Cano Reyes
 
 ## Week 1
 Project allocation week
@@ -356,3 +356,83 @@ Project allocation week
 
 ### 22nd February 2021
 * *1.5 hours* Started comparing the retina pipeline vs standard transmission. It seems that the Huffman encoded can actually increase the size of a vector in some cases.
+
+### 23rd February 2021
+* *1 hour* Started working on getting my dataset to work with the PCN. Test accuracy is extremely low however...
+
+### 24th February 2021
+* *1 hour* Collecting transmission times and preparing presentation for meeting
+* *0.5 hours* Meeting with Supervisors
+
+### 28th February 2021
+* *3 hours* Worked on getting my dataset to work with the PCN. Achieving test accuracy of about 70%.
+
+### 2nd March 2021
+* *2 hours* PCN Test accuracy now gets to around 85%. Train accuracy is 100%
+
+### Total for Week 18: *12 hours*
+
+## Week 19
+### 3rd March 2021
+* *0.5 hour* Meeting with Supervisor
+* *1 hour* Trying out different parameters for the PCN
+
+### 4th March 2021
+* *3 hours* Working on dissertation
+
+### 5th March 2021
+* *3 hours* Working on dissertation
+
+### 6th March 2021
+* *2 hours* Working on dissertation
+
+### 7th March 2021
+* *2 hours* Working on dissertation
+
+### Total for Week 19: *11.5* hours
+
+## Week 20
+### 10th March 2021
+* *0.5 hours* Meeting with Supervisor
+* *1.5 hours* Working on dissertation
+
+### 11th March 2021
+* *3 hours* Working on dissertation
+
+### 12th March 2021
+* *6 hours* Working on dissertation
+
+### 13th March 2021
+* *6 hours* Finished first dissertation draft
+
+### Total for Week 20: *17 hours*
+
+## Week 21
+
+### 17th March 2021
+* *0.5 hours* Meeting with Supervisor
+
+### Total for Week 21: *0.5 hours*. Focusing on finishing coursework, with permission from Supervisor
+
+## Week 22
+
+### 24th March 2021
+* *0.5 hours* Meeting with Supervisor
+
+### 28th March 2021
+* *2 hours* Working on dissertation based on initial feedback from Supervisor
+
+### 29th March 2021
+* *5 hours* Working on second draft of dissertation
+
+### 30th March 2021
+* *3.5 hours* Working on second draft of dissertation
+
+### Total for Week 22: *11 hours*
+
+## Week 23
+
+### 31st March 2021
+* *0.5 hours* Meeting with Supervisor
+* *2 hours* Finishing up second draft of dissertation
+
