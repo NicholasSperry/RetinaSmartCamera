@@ -436,3 +436,9 @@ Project allocation week
 * *0.5 hours* Meeting with Supervisor
 * *2 hours* Finishing up second draft of dissertation
 
+### 1st April 2021
+* *4.5 hours* Working on video presentation slides
+
+### 2nd April 2021
+* *1 hour* Working on video presentation slides
+* *4 hours* Cleaning up code, adding comments, etc.
