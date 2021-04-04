@@ -442,3 +442,10 @@ Project allocation week
 ### 2nd April 2021
 * *1 hour* Working on video presentation slides
 * *4 hours* Cleaning up code, adding comments, etc.
+
+### 3rd April 2021
+* *4 hours* Created pipeline_client and pipeline_server notebooks to run the full retina pipeline
+* *2 hours* Changed the way the datasets and retina data are being loaded 
+
+### 4th April 2021
+* *2 hours* Worked on creating a bash script to download the full dataset, and another one to download Piotr's retina data
