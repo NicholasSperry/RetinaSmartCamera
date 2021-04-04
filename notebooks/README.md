@@ -36,4 +36,7 @@ Part of this project involved experimenting with using a neural bottleneck to co
 1.  Open the `RetinaEncoder.ipynb` notebook and `Run all`. This will train the neural bottleneck using the dataset collected for this project or Alvaro's dataset.
 
 ## Dataloaders
+The `DataLoaders.ipynb` notebook contains the Dataset object needed to create the dataloaders, and the `get_dataloader` function which retrieves a dataset and returns the Dataloaders. As further explained in the notebook itself, it defaults to using the dataset collected for this project. This notebook isn't actually run by its own, and is instead imported into the other notebooks to use.
 
+## Software Retina
+The `RetinaUtils.ipynb` notebook contains Ozimeks Retina and Cortex code, as well as the CUDA implementations. If you are one a Linux or Windows machine, this notebook will also enable the CUDA implementations, which uses GPU acceleration. As with the `DataLoaders.ipynb` notebook, this notebook is imported into other notebooks to use. The code used is taken from [RetinaVision](https://github.com/Pozimek/RetinaVision).
