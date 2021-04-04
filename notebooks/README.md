@@ -18,7 +18,8 @@ This project involved benchmarking the transmission rates achieved by the Retina
 ### Requirements
 * Same as the Retina Pipeline, additionally you may want to download the example video that is used. Make sure you are in the notebooks directory: 
             
-      curl -OL link_to_video
+      curl -L "https://drive.google.com/uc?export=download&id=16i0l_u6V9SGgesMbWsCzM_eNZCTGmLJD" > Jellyfish.mp4
+
 You can choose to instead use the webcam to benchmark the transmission rates, as shown in the `benchmark_client.ipynb` notebook.
 
 Once everything is installed, follow these steps:
