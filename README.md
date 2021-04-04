@@ -35,8 +35,9 @@ Here we outline how the project is organised. Each folder displayed here will ha
 ## Installation
 ### Google Colab
 This project was developed almost entirely using Google Colab for GPU access. If you plan on doing the same, follow these steps. Please note, however, that the Retina Pipeline and Benchmark notebooks only work locally (i.e. on your computer).
-1.  Add this repository to your Google Drive
-2.  The complete dataset collected can be found [here](https://drive.google.com/drive/folders/1UeI7ImDhNBQrdQMNfoMazztBUC9Z8lYT?usp=sharing) (this is a shared Google Drive folder). Add the dataset folder inside the RetinaSmartCamera directory.
+1.  Add this repository to your Google Drive. The easiest way is to manually download this repository and add it directly to your Drive.
+2.  The complete dataset is on Google Drive and can be found [here](https://drive.google.com/drive/folders/1UeI7ImDhNBQrdQMNfoMazztBUC9Z8lYT?usp=sharing). 
+3.  Go to `Shared with me`->`Frames`->Right click->`Add shortcut to Drive`->Add the dataset folder inside the RetinaSmartCamera directory.
 
 ### Locally
 If you plan on running this locally:
