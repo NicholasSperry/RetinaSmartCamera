@@ -42,7 +42,7 @@ This project was developed almost entirely using Google Colab for GPU access. If
 3.  Go to `Shared with me`->`Frames`->Right click->`Add shortcut to Drive`->Add the dataset folder inside the RetinaSmartCamera directory.
 
 ### Locally
-If you plan on running this locally:
+If you want to run the Retina Pipeline or benchmark its performance you need to run it locally:
 1.  Clone the repository to the desired location
 
         git clone https://github.com/NicholasSperry/RetinaSmartCamera.git
