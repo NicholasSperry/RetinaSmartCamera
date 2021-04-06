@@ -1,5 +1,5 @@
 # Notebooks
-This folder contains all of the Jupyter notebooks used in this project, including the final Retina Pipeline. If not other wise mentioned, the requirements and installation guidelines are the same as the ones mentioned in the `RetinaSmartCamera` Readme.
+This folder contains all of the Jupyter notebooks used in this project, including the final Retina Pipeline. The requirements and installation guidelines are the same as the ones mentioned in the `RetinaSmartCamera` Readme.
 
 ## Running the Retina Pipeline (Locally only)
 
@@ -13,14 +13,12 @@ Once you have everything installed, follow these steps:
 After running `pipeline_server.ipynb` and `pipeline_client.ipynb` in that order, once the full dataset has been sent the final classification accuracy will be outputed by the `pipeline_server.ipynb` notebook.
 
 ## Benchmarking the Retina Pipeline (Locally only)
-This project involved benchmarking the transmission rates achieved by the Retina Pipeline when compared to a Standard Video Transmission Pipeline. This was done by comparing Throughput, measured in bytes per second (also known as bandwidth), and Latency, measured in seconds.
+This project involved benchmarking the transmission rates achieved by the Retina Pipeline when compared to a Standard Video Transmission Pipeline. This was done by  comparing Throughput, measured in bytes per second (also known as bandwidth), and Latency, measured in seconds.
 
-### Requirements
-* Same as the Retina Pipeline, additionally you may want to download the example video that is used. Make sure you are in the notebooks directory: 
-            
+The code used to benchmark the transmission rates samples a video used to create the 'Jellyfish' class of the dataset. If you want to do the same, make sure you are in the notebooks directory and download the video: 
+
       curl -L "https://drive.google.com/uc?export=download&id=16i0l_u6V9SGgesMbWsCzM_eNZCTGmLJD" > Jellyfish.mp4
-
-You can choose to instead use the webcam to benchmark the transmission rates, as shown in the `benchmark_client.ipynb` notebook.
+This isn't neceassary, and instead you can set `path=0`, as shown in the `benchmark_client.ipynb` notebook. This will use your webcam to benchmark the transmission rates instead.
 
 Once everything is installed, follow these steps:
 1.  Open the `benchmark_server.ipynb` notebook and `Run all`. This notebook sets up the Server side and will wait for `benchmark_client.ipynb` to send the compressed retinal vectors and compressed 1080p frames.
