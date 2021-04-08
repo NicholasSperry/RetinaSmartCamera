@@ -49,6 +49,7 @@ If you want to run the Retina Pipeline or benchmark its performance you need to 
 2.  Navigate to the RetinaSmartCamera directory and run the following script in the command line to download the dataset. Be aware that this file is fairly large (4.7Gb)
 
         bash scripts/download_dataset.sh
+    You can instead also download the dataset from Google Drive directly from [here](https://drive.google.com/drive/folders/1UeI7ImDhNBQrdQMNfoMazztBUC9Z8lYT?usp=sharing) and place it in the RetinaSmartCamera foler.
 3.  If needed, run the following script to download the retina data
 
         bash scripts/download_retina_data.sh
