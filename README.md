@@ -20,7 +20,7 @@ Here we outline how the project is organised. Each folder displayed here will ha
 * `bin/` Retina CUDA library developed by Ozimek, which is needed to run his Retina code with GPU acceleration.
 * `retina_data/` Contains the retina data needed to run Ozimek's software retina.
 * `models/` Contains pre-trained PyTorch models.
-* `notebooks/` The source code of this project. This was done entirely using Jupyter notebooks.
+* `notebooks/` The source code of this project. This was done entirely using Jupyter notebooks. A `manual.md` file is also included in this folder explaining how to run the code.
 
 ## Requirements
 ### Google Colab
