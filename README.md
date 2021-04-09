@@ -13,12 +13,11 @@ This project built a smart camera by creating a retina pipeline that can compres
 ![image](retina_pipeline_image.png)
 
 ## Project Structure
-Here we outline how the project is organised. Each folder displayed here will have its own README file inside explaining its use.
+Here we outline how the project is organised. Each folder displayed here will have its own README.md file inside explaining its use.
 * `timelog.md` The time log kept for this project.
 * `plan.md` Week-by-week explanation of the weekly plan.
-* `scripts/` Bash scripts used to download the dataset collected for the project, and if needed Ozimek's retina data to run his Retina code.
-* `bin/` Retina CUDA library developed by Ozimek, which is needed to run his Retina code with GPU acceleration.
-* `retina_data/` Contains the retina data needed to run Ozimek's software retina.
+* `scripts/` Bash scripts used to download the dataset collected for the project, and Ozimek's retina data to run his Retina code taken from [RetinaVision](https://github.com/Pozimek/RetinaVision).
+* `bin/` Retina CUDA library developed by Ozimek, which is needed to run his Retina code with GPU acceleration, taken from [RetinaVision](https://github.com/Pozimek/RetinaVision)
 * `models/` Contains pre-trained PyTorch models.
 * `notebooks/` The source code of this project. This was done entirely using Jupyter notebooks. A `manual.md` file is also included in this folder explaining how to run the code.
 
