@@ -17,7 +17,8 @@ Here we outline how the project is organised. Each folder displayed here will ha
 * `timelog.md` The time log kept for this project.
 * `plan.md` Week-by-week explanation of the weekly plan.
 * `scripts/` Bash scripts used to download the dataset collected for the project, and Ozimek's retina data to run his Retina code taken from [RetinaVision](https://github.com/Pozimek/RetinaVision).
-* `bin/` Retina CUDA library developed by Ozimek, which is needed to run his Retina code with GPU acceleration, taken from [RetinaVision](https://github.com/Pozimek/RetinaVision)
+* `retina_data/` Retina data files needed to run Ozimek's Retina code. These have been taken from [RetinaVision](https://github.com/Pozimek/RetinaVision/tree/master/data)
+* `bin/` Retina CUDA library developed by Ozimek, which is needed to run his Retina code with GPU acceleration, taken from [RetinaVision](https://github.com/Pozimek/RetinaVision/tree/master/bin)
 * `models/` Contains pre-trained PyTorch models.
 * `notebooks/` The source code of this project. This was done entirely using Jupyter notebooks. A `manual.md` file is also included in this folder explaining how to run the code.
 
@@ -49,6 +50,6 @@ If you want to run the Retina Pipeline or benchmark its performance you need to 
 
         bash scripts/download_dataset.sh
     You can instead also download the dataset from Google Drive directly from [here](https://drive.google.com/drive/folders/1UeI7ImDhNBQrdQMNfoMazztBUC9Z8lYT?usp=sharing) and place it in the RetinaSmartCamera foler.
-3.  If needed, run the following script to download the retina data
+3.  If needed, run the following script to download the necessary retina data files from [RetinaVison](https://github.com/Pozimek/RetinaVision/tree/master/data)
 
         bash scripts/download_retina_data.sh
