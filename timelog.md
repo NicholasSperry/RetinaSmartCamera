@@ -449,3 +449,4 @@ Project allocation week
 
 ### 4th April 2021
 * *2 hours* Worked on creating a bash script to download the full dataset, and another one to download Piotr's retina data
+* *5 hours* Creating Readme files for every folder. Added extra requirements. Modified some of the notebooks to be clearer
